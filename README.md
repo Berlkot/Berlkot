@@ -5,5 +5,5 @@
 - 🌱 Learning Python, Python and again Python.
 
 ### Contacts
-- [Instagramm](https://www.instagram.com/berlkot/)
+- [Instagram](https://www.instagram.com/berlkot/)
 - Discord: Berlkot#1667
