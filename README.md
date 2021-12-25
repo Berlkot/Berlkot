@@ -1,7 +1,7 @@
 ### About
 
 - Russian 15y/o Python developer and Artist
-- 🔭 I’m currently working on AniQuar Disocd bot
+- 🔭 I’m currently working on AniQuar Discord bot
 - 🌱 Learning Python, Python and again Python.
 
 ### Contacts
