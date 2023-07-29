@@ -6,4 +6,4 @@
 
 ### Contacts
 - [Instagram](https://www.instagram.com/berlkot/)
-- Discord: Berlkot#1667
+- Discord: berlkot
