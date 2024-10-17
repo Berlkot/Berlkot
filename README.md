@@ -1,8 +1,9 @@
 ### About
 
-- Russian 17y/o Python developer and Artist
-- 🔭 I’m currently working on AniQuar Discord bot
-- 🌱 Learning Python, Python and again Python.
+- Russian 18y/o aspiring Web developer and Artist
+- 🔭 I’m currently working on setting up a personal website
+- 🌱 Currently focusing on Rust, TypeScript
+- 🚩 Studied Python, GDScript, Go, Bash, Docker, Javascript
 
 ### Contacts
 - [Instagram](https://www.instagram.com/berlkot/)
